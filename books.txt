@@ -150,3 +150,4 @@ Emeric Pressburger - The Glass Pearls
 Jane Austen - Pride and Prejudice
 Ira Levin - The Stepford Wives
 Neal Stephenson - The Diamond Age
+Nagel & Newman - Godel's Proof
