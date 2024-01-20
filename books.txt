@@ -140,6 +140,7 @@ Ramez Naam - Apex
 Adrian Tchaikovsky - Children of Time
 
 2023
+
 John Le Carre - The Night Manager
 Adrian Tchaikovsky - Children of Memory
 Greg Egan - Permutation City
@@ -159,3 +160,7 @@ James P Hogan - Giants' Star
 Ted Chiang = Exhalation: Stories
 James P Hogan - Code of the Lifemaker
 Stanislav Lem - Solaris
+
+2024
+
+Haruki Murakami = Norwegian Wood
