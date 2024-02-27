@@ -164,3 +164,4 @@ Stanislav Lem - Solaris
 2024
 
 Haruki Murakami = Norwegian Wood
+John Steinbeck - East of Eden
