@@ -191,5 +191,6 @@ Stanislav Lem - Fiasco
 Robert L Forward - Dragon's Egg
 Samantha Harvey - Orbital
 Robert L Forward - Starquake
-
+Olaf Stapledon - The Star Maker
+Ford Madox Ford - The Good Soldier
 
